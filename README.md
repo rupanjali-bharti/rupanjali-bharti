@@ -43,11 +43,20 @@ I am a builder focused on the intersection of **AI Orchestration** and **Cyberse
 ### 🔥 GitHub Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rupanjali-bharti&theme=transparent&hide_border=true)
 
-### 🧩 LeetCode Mastery
-| Stats | Submission Calendar |
-| :--- | :--- |
-| ![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/rupanjali_070_) | <img src="https://leetcode-contribution-calendar-server.vercel.app/svg?username=rupanjali_070_" width="100%"> |
+### 🐙 GitHub Contribution Heatmap
+![GitHub Heatmap](https://github-readme-stats.vercel.app/api/github-contribution-calendar?username=rupanjali-bharti&theme=dark)
 
+## 📊 Coding Activity & Consistency
+
+### 🧩 LeetCode Mastery
+[<img src="https://leetcard.jacoblin.cool/rupanjali_070_?theme=dark&font=Assistant&ext=activity" width="65%" height="65%" alt="LeetCode Stats" />](https://leetcode.com/u/rupanjali_070_/)
+
+### 📅 Submission Heatmap
+<p align="left">
+  <img src="https://leetcode-contribution-stats.vercel.app/api?username=rupanjali_070_&theme=dark" width="100%" alt="LeetCode Heatmap" />
+</p>
+
+---
 ---
 
 ## 📈 GitHub Stats
