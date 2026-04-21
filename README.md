@@ -7,7 +7,7 @@ I am a builder focused on the intersection of **AI Orchestration** and **Cyberse
 
 ## 🚀 Featured Projects
 
-### [AcademicGraph](https://github.com/rupanjali-bharti/AcademicGraph) 
+### [AcademicGraph](https://github.com/rupanjali-bharti/Automated-Professor-Profile-Search-using-Ai.git) 
 **Automated Professor & Research Orchestrator**
 * Developed a **Knowledge Graph-based system** using **Neo4j** to automate academic project planning and professor-student matching.
 * Built a hierarchical schema to visualize research domains, faculty expertise, and project dependencies.
