@@ -1,37 +1,61 @@
-# Hi, I'm Rupanjali 👋
-### Software & AI Engineer | MERN Stack Developer | Cybersecurity Enthusiast
+# Hi, I'm Rupanjali 👋 
+### Software & AI Engineer | Final Year Engineering Student
 
-I am a final-year Engineering student focused on building intelligent, security-first applications. My expertise lies in bridging the gap between Full-Stack development and Agentic AI workflows.
-
----
-
-### 🚀 Featured Projects
-*   **[DevShield](https://github.com/your-link)**: A browser-based IDE with real-time AI security auditing (Node.js, Python, Semgrep, LLMs).
-*   **[SentinelGraph](https://github.com/your-link)**: Autonomous multi-agent security orchestrator using Neo4j Knowledge Graphs.
-*   **[EduConnect AI](https://github.com/your-link)**: RAG-based compliance portal for automated security audits.
+I am a builder focused on the intersection of **AI Orchestration** and **Cybersecurity**. My work centers on creating autonomous agentic systems and security-first development tools that leverage Knowledge Graphs and LLMs.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-- **Languages**: JavaScript (ES6+), Python, C++, Java, Cypher (Neo4j)
-- **Frontend**: React.js, Redux, Tailwind CSS, Monaco Editor
-- **Backend**: Node.js, Express, Socket.io, REST APIs
-- **AI & Data**: LangChain, RAG, ChromaDB, Hugging Face, Tree-sitter
-- **DevOps/Tools**: Git, Docker, MongoDB, Vercel, Railway
+## 🚀 Featured Projects
+
+### [AcademicGraph](https://github.com/rupanjali-bharti/AcademicGraph) 
+**Automated Professor & Research Orchestrator**
+* Developed a **Knowledge Graph-based system** using **Neo4j** to automate academic project planning and professor-student matching.
+* Built a hierarchical schema to visualize research domains, faculty expertise, and project dependencies.
+* Leveraged **LLMs** to parse academic papers and automatically populate graph nodes with relevant metadata.
+* **Tech:** Neo4j (Cypher), Python, LangChain, Knowledge Graph Data Science.
+
+### [DevShield](https://github.com/rupanjali-bharti/DevShield)
+**AI-Powered Security-First IDE**
+* A browser-based development environment with real-time vulnerability detection.
+* Integrates **Semgrep** and **Tree-sitter** with LLM-powered patch suggestions.
+* **Tech:** React, Node.js, Python, Monaco Editor, Ollama.
+
+### [Guardian RAG Portal / EduConnect AI](https://github.com/rupanjali-bharti/EduConnectAI)
+**Compliance & Security Audit Tooling**
+* Developed a RAG-based platform to automate vendor compliance assessments.
+* Uses document parsing to generate cited answers for complex policy questionnaires.
+* **Tech:** Streamlit, ChromaDB, LangChain, Hugging Face.
 
 ---
 
-### 📊 My Coding Stats
-| **GitHub Stats** | **LeetCode Progress** |
+## 🛠️ Technical Arsenal
+
+- **Languages:** JavaScript (ES6+), Python, C++, Java, Cypher (Neo4j)
+- **Frontend:** React.js, Redux, Tailwind CSS, Monaco Editor
+- **Backend:** Node.js, Express, Socket.io, RESTful APIs
+- **AI & Data:** LLMs (Claude/GPT/Llama), RAG, LangGraph, Vector DBs (ChromaDB), Tree-sitter
+- **Databases:** MongoDB, Neo4j (Graph Data Science)
+
+---
+
+## 📊 Consistency & Activity
+
+### 🔥 GitHub Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rupanjali-bharti&theme=transparent&hide_border=true)
+
+### 🧩 LeetCode Mastery
+| Stats | Submission Calendar |
 | :--- | :--- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent) | ![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/YOUR_LEETCODE_USERNAME) |
+| ![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/rupanjali_070_) | <img src="https://leetcode-contribution-calendar-server.vercel.app/svg?username=rupanjali_070_" width="100%"> |
 
 ---
 
-### 📈 Contribution Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent)
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupanjali-bharti&show_icons=true&theme=transparent&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupanjali-bharti&layout=compact&theme=transparent)
 
 ---
 
-### 📫 Connect with me:
-[LinkedIn](YOUR_LINKEDIN_URL) | [Portfolio](YOUR_PORTFOLIO_URL) | [LeetCode](YOUR_LEETCODE_URL)
+## 📫 Connect With Me
+- **LinkedIn:** [linkedin.com/in/rupanjali-bharti](https://www.linkedin.com/in/rupanjali-bharti-1a396427b/)
+- **Portfolio:** [rupanjali.dev](https://about-rupanjali.vercel.app/)
