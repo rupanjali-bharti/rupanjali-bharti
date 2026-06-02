@@ -1,6 +1,8 @@
-Hi, I'm Rupanjali 👋
-Software Engineer | Scalable Architecture & Applied AI
-I engineer secure, data-intensive web systems. My work focuses on bridging robust full-stack architecture with intelligent workflows—orchestrating LLMs, utilizing RAG pipelines, and leveraging Graph databases (Neo4j) to build autonomous, production-ready applications.
+###Hi, I'm Rupanjali 👋
+
+###Software Engineer | Scalable Architecture & Applied AI
+
+###I engineer secure, data-intensive web systems. My work focuses on bridging robust full-stack architecture with intelligent workflows—orchestrating LLMs, utilizing RAG pipelines, and leveraging Graph databases (Neo4j) to build autonomous, production-ready applications.
 ---
 
 ## 🚀 Featured Projects
