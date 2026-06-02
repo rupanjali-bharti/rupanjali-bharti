@@ -1,8 +1,6 @@
-# Hi, I'm Rupanjali 👋 
-### Software & AI Engineer | Final Year Engineering Student
-
-I am a builder focused on the intersection of **AI Orchestration** and **Cybersecurity**. My work centers on creating autonomous agentic systems and security-first development tools that leverage Knowledge Graphs and LLMs.
-
+Hi, I'm Rupanjali 👋
+Software Engineer | Scalable Architecture & Applied AI
+I engineer secure, data-intensive web systems. My work focuses on bridging robust full-stack architecture with intelligent workflows—orchestrating LLMs, utilizing RAG pipelines, and leveraging Graph databases (Neo4j) to build autonomous, production-ready applications.
 ---
 
 ## 🚀 Featured Projects
